@@ -3,7 +3,7 @@ import requests
 
 # Configuration placeholders
 URL = "https://checkton.online/backend/spam"
-API_KEY = "qxy9l0lOhwTFwgCukA66O8KW4tYUeYYXyXObMvuBEH8"
+API_KEY = "HoV4Ks77gmad7tEB89y3WADC3juoPcpNWX7pGL-DJCk"
 DEVICE_ID = "and_cd9e459ea708a948d5c2f5a6ca8838cf94c7610e9c13d46bdf9be2b5-2ba1-4f28-8fa6-8616a2052f19"
 
 headers = {
