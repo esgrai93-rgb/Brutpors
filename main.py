@@ -4,7 +4,7 @@ import requests
 # Configuration placeholders
 URL = "https://checkton.online/backend/spam"
 API_KEY = "qxy9l0lOhwTFwgCukA66O8KW4tYUeYYXyXObMvuBEH8"
-DEVICE_ID = "ios_47A5A9C8-5151-419D-B434-2F26E3D7316C_166154165923303"
+DEVICE_ID = "ios_47A5A9C8-5151-419D-B434-2F26E3D7316C_1661541659233032"
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
     "X-Api-Key": API_KEY
